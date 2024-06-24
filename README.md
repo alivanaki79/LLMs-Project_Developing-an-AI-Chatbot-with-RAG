@@ -59,8 +59,9 @@ This project aims to develop a research tool specifically designed for the finan
 
 - `main.py`: The main script for the Streamlit app.
 - `requirements.txt`: A file listing all the dependencies required for the project.
+- `faiss_store_openai.pkl`: A pickle file to store the FAISS index.
 - `.env`: A file for storing environment variables, particularly the OpenAI API key.
 
-### Notes:
+## Notes:
 - Replace `your_openai_api_key_here` with your actual OpenAI API key in the `.env` file.
 - Ensure the `requirements.txt` file lists all the necessary dependencies for your project.
