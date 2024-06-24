@@ -60,6 +60,6 @@ This project aims to develop a research tool specifically designed for the finan
 - `faiss_store_openai.pkl`: A pickle file to store the FAISS index.
 - `.env`: A file for storing environment variables, particularly the OpenAI API key.
 
-## Notes:
+## Notice:
 - Replace `your_openai_api_key_here` with your actual OpenAI API key in the `.env` file.
 - Ensure the `requirements.txt` file lists all the necessary dependencies for your project.
