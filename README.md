@@ -22,7 +22,7 @@ This project aims to develop a research tool specifically designed for the finan
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/alivamaki/LLMs-Project_Developing-an-AI-Chatbot-with-RAG.git
+    git clone https://github.com/alivanaki79/LLMs-Project_Developing-an-AI-Chatbot-with-RAG.git
     ```
     
 2. **Navigate to the project directory:**
