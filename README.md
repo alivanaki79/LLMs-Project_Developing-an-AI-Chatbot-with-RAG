@@ -23,21 +23,25 @@ This project aims to develop a research tool specifically designed for the finan
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/alivamaki/LLMs-Project_Developing-an-AI-Chatbot-with-RAG.git
-    cd LLMs-Project_Developing-an-AI-Chatbot-with-RAG
+    ```
+    
+2. **Navigate to the project directory:**
+   ```sh
+   cd LLMs-Project_Developing-an-AI-Chatbot-with-RAG
     ```
 
-2. **Create and activate a virtual environment:**
+3. **Create and activate a virtual environment:**
     ```sh
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
-3. **Install the required packages:**
+4. **Install the required packages:**
     ```sh
     pip install -r requirements.txt
     ```
 
-4. **Set up your `.env` file:**
+5. **Set up your `.env` file:**
     Create a file named `.env` in the root directory of your project and add your OpenAI API key:
     ```plaintext
     OPENAI_API_KEY=your_openai_api_key_here
