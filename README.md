@@ -1,4 +1,4 @@
-# Financial Research Chatbot Tool 📈
+# Financial Research Chatbot Tool 
 
 This project aims to develop a research tool specifically designed for the financial field, functioning as a chatbot. Given the increasing importance and integration of chatbots into various aspects of life, this tool is designed to enhance speed, performance, and accuracy in financial analysis. The chatbot continuously updates itself with new articles and analyses in the financial sector, providing concise summaries and important details through a simple Q&A interface. Additionally, the chatbot can provide sources for its answers, facilitating comprehensive financial research with minimal time investment.
 
